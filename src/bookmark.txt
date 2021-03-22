@@ -1,0 +1,3 @@
+https://webpack.js.org/guides/development/
+
+https://webpack.js.org/concepts/manifest/
